@@ -1,0 +1,12 @@
+{
+  "name": "Collection",
+  "version": "1.0.0",
+  "description": "Random collection of algorithms, patterns and just code used for learning and testing",
+  "main": "index.js",
+  "repository": "git@github.com:eugenioenko/collection.git",
+  "author": "eugenioenko <eyakhnenko@underline.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.3"
+  }
+}
